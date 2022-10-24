@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goocarry/wb-internship/patterns/builder/builder"
+	"github.com/goocarry/wb-L2/patterns/builder/builder"
 )
 
 func main() {

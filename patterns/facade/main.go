@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/goocarry/wb-internship/patterns/facade/account"
-	billing "github.com/goocarry/wb-internship/patterns/facade/billing"
-	securitycode "github.com/goocarry/wb-internship/patterns/facade/securityCode"
-	"github.com/goocarry/wb-internship/patterns/facade/wallet"
-	walletfacade "github.com/goocarry/wb-internship/patterns/facade/walletFacade"
+	"github.com/goocarry/wb-L2/patterns/facade/account"
+	billing "github.com/goocarry/wb-L2/patterns/facade/billing"
+	securitycode "github.com/goocarry/wb-L2/patterns/facade/securityCode"
+	"github.com/goocarry/wb-L2/patterns/facade/wallet"
+	walletfacade "github.com/goocarry/wb-L2/patterns/facade/walletFacade"
 )
 
 func main() {

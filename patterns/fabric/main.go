@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goocarry/wb-internship/patterns/fabric/gun"
+	"github.com/goocarry/wb-L2/patterns/fabric/gun"
 )
 
 func main() {

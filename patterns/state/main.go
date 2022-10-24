@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goocarry/wb-internship/patterns/state/player"
+	"github.com/goocarry/wb-L2/patterns/state/player"
 )
 
 func main() {

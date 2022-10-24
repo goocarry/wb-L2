@@ -3,10 +3,10 @@ package walletfacade
 import (
 	"fmt"
 
-	account "github.com/goocarry/wb-internship/patterns/facade/account"
-	billing "github.com/goocarry/wb-internship/patterns/facade/billing"
-	securitycode "github.com/goocarry/wb-internship/patterns/facade/securityCode"
-	wallet "github.com/goocarry/wb-internship/patterns/facade/wallet"
+	account "github.com/goocarry/wb-L2/patterns/facade/account"
+	billing "github.com/goocarry/wb-L2/patterns/facade/billing"
+	securitycode "github.com/goocarry/wb-L2/patterns/facade/securityCode"
+	wallet "github.com/goocarry/wb-L2/patterns/facade/wallet"
 )
 
 // WalletFacade ...

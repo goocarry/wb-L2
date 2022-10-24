@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/goocarry/wb-internship/patterns/strategy/cache"
+	"github.com/goocarry/wb-L2/patterns/strategy/cache"
 )
 
 func main() {

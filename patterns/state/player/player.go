@@ -1,7 +1,7 @@
 package player
 
 import (
-	"github.com/goocarry/wb-internship/patterns/state/state"
+	"github.com/goocarry/wb-L2/patterns/state/state"
 )
 
 // Player ...

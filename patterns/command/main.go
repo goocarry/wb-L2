@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goocarry/wb-internship/patterns/command/command"
+	"github.com/goocarry/wb-L2/patterns/command/command"
 )
 
 func main() {

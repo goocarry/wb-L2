@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goocarry/wb-internship/patterns/chain_of_resp/chain"
+	"github.com/goocarry/wb-L2/patterns/chain_of_resp/chain"
 )
 
 func main() {
